@@ -1,1 +1,6 @@
-Test number 1
+---
+
+layout: home
+---
+
+BlockSp is coming soon!
