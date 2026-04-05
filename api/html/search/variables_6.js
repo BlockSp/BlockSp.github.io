@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['n_0',['N',['../struct_block_sp_1_1dense_1_1_l_u_factor___arr.html#afe64215b2f09c3cf477986eae892ee88',1,'BlockSp::dense::LUFactor_Arr::N'],['../struct_block_sp_1_1dense_1_1_cholesky_factor___arr.html#a98c8bc3ee1b9300caca22753b3bb1f16',1,'BlockSp::dense::CholeskyFactor_Arr::N'],['../struct_block_sp_1_1dense_1_1_sym_eigen_factor___arr.html#a8efc634b48fe110628bd4504d094eb34',1,'BlockSp::dense::SymEigenFactor_Arr::N'],['../struct_block_sp_1_1dense_1_1_non_sym_eigen_factor___arr.html#aa6222a6701e61c3acb16b4d6b2d804cf',1,'BlockSp::dense::NonSymEigenFactor_Arr::N'],['../struct_block_sp_1_1dense_1_1_eigenvalues___arr.html#ae36ad92f366adce3e120bf8482973601',1,'BlockSp::dense::Eigenvalues_Arr::N'],['../structeigen__comparison_1_1_eigen___trip.html#abfd9ac1a44abba1980e3f343909e0a53',1,'eigen_comparison::Eigen_Trip::N']]],
+  ['n_1',['n',['../struct_block_sp_1_1pre_conditioners_1_1_i_l_u0.html#ac0614bfafffe9a4ad11ccbfae7a6cf84',1,'BlockSp::preConditioners::ILU0::n'],['../struct_block_sp_1_1pre_conditioners_1_1_i_chol0.html#ab2a59a1c3ea93701010bf4c012cd8358',1,'BlockSp::preConditioners::IChol0::n']]],
+  ['nnz_2',['nnz',['../class_block_sp_1_1_sp_1_1_c_s_r.html#ae4bb197379a7eb8b2179f69710726333',1,'BlockSp::Sp::CSR']]]
+];

@@ -1,0 +1,14 @@
+var searchData=
+[
+  ['eigen_5fcompare_0',['eigen_compare',['../namespaceeigen__comparison.html#a3a3dfc1a56a62803fe490f5cdd353cb4',1,'eigen_comparison']]],
+  ['eigen_5fcomparison_1',['eigen_comparison',['../namespaceeigen__comparison.html',1,'']]],
+  ['eigen_5ftrip_2',['Eigen_Trip',['../structeigen__comparison_1_1_eigen___trip.html',1,'eigen_comparison::Eigen_Trip&lt; T &gt;'],['../structeigen__comparison_1_1_eigen___trip.html#a2b77e975413d99068c0af98a056e85c1',1,'eigen_comparison::Eigen_Trip::Eigen_Trip()'],['../structeigen__comparison_1_1_eigen___trip.html#a2ab7bffed989530941b5e694ba46805f',1,'eigen_comparison::Eigen_Trip::Eigen_Trip(const std::vector&lt; Eigen::Triplet&lt; T &gt; &gt; &amp;trip, int M, int N)'],['../structeigen__comparison_1_1_eigen___trip.html#ac8804ac19b7801e16880fa05de774292',1,'eigen_comparison::Eigen_Trip::Eigen_Trip(int M, int N, const std::vector&lt; Eigen::Triplet&lt; T &gt; &gt; &amp;trip)']]],
+  ['eigensparseexample_3',['eigenSparseExample',['../namespaceeigen__comparison.html#a3169a75553df39c9c93f42e70075d565',1,'eigen_comparison']]],
+  ['eigensparseexample_5fcompare_4',['eigenSparseExample_compare',['../namespaceeigen__comparison.html#a74e249aa9f7b723933ca90ba8c75124d',1,'eigen_comparison']]],
+  ['eigentestsetup_5',['eigenTestSetUp',['../namespaceeigen__comparison.html#ad337ac3f79774cae6607d8f18f92cc60',1,'eigen_comparison']]],
+  ['eigenvalues_5farr_6',['Eigenvalues_Arr',['../struct_block_sp_1_1dense_1_1_eigenvalues___arr.html',1,'BlockSp::dense::Eigenvalues_Arr&lt; T &gt;'],['../struct_block_sp_1_1dense_1_1_eigenvalues___arr.html#ab54c2dd246d4bae5e004332e961a6934',1,'BlockSp::dense::Eigenvalues_Arr::Eigenvalues_Arr()'],['../struct_block_sp_1_1dense_1_1_eigenvalues___arr.html#a83e611e50ad8d19182dbe023f984cb96',1,'BlockSp::dense::Eigenvalues_Arr::Eigenvalues_Arr(const blitz::Array&lt; T, 2 &gt; &amp;A, bool harmonic_Ritz=false, T h_mn=0.0, S tolFactor=1.0)']]],
+  ['end_7',['end',['../class_block_sp_1_1sol_array.html#a215b7d6efdcbca85363ccae4b96bcb7e',1,'BlockSp::solArray::end()'],['../class_block_sp_1_1sol_array.html#aaee07bee66a56130e3b9ee0e0d436141',1,'BlockSp::solArray::end() const']]],
+  ['explicit_5fsmall_5finv_8',['explicit_small_Inv',['../namespace_block_sp_1_1util.html#a1db102b67b517dd35bebb8922bed4341',1,'BlockSp::util::explicit_small_Inv(const blitz::TinyMatrix&lt; T, N, N &gt; &amp;A)'],['../namespace_block_sp_1_1util.html#a0787de56b20869d6e08d01c68fe6944c',1,'BlockSp::util::explicit_small_Inv(const blitz::TinyVector&lt; T,(N *(N+1))/2 &gt; &amp;A)']]],
+  ['extent_9',['extent',['../class_block_sp_1_1sol_array.html#a635faf541e6ffc2131db52c49968a9bf',1,'BlockSp::solArray::extent() const'],['../class_block_sp_1_1sol_array.html#ab459e73b078853978796e4fee82e6d39',1,'BlockSp::solArray::extent(int dim) const']]],
+  ['extractsubvec_10',['extractSubVec',['../namespace_block_sp_1_1util.html#a7e1ed1cdd47d3911d3bfaed7b056d2a2',1,'BlockSp::util']]]
+];

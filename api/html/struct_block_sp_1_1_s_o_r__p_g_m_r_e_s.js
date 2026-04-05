@@ -1,0 +1,26 @@
+var struct_block_sp_1_1_s_o_r__p_g_m_r_e_s =
+[
+    [ "SOR_pGMRES", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#ab60cbc829c2eeb4b6617686add7ff10b", null ],
+    [ "access_SOR_pre", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#a162c8233769fedfd129319aae9ccdddd", null ],
+    [ "change_k", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#a6a3b6f4e93919289934a33ba5de359d1", null ],
+    [ "change_maxIters", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#a59f97aa6ada0d4d6e5f16be92b158870", null ],
+    [ "change_nu", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#a22c859c50b2f5e684bb8ea7180d436e4", null ],
+    [ "change_printEigInfo", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#af10d3c1c5bdb2bb2930e71dbfba5bd33", null ],
+    [ "change_printIters", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#af8116c4f29833374ad612c887106a2e9", null ],
+    [ "change_restart", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#a27709a13a39feb7383b5b83761833012", null ],
+    [ "change_SOR_pre", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#ab1bf557e0473f6afda327c2035a34252", null ],
+    [ "change_SORtype", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#acba0d39381098f15f1551f222f7064d7", null ],
+    [ "change_tol", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#a8f34e1d08f7da8fbe3b3c8ccbdf83893", null ],
+    [ "change_w", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#a960cb167ac6f2476c6b5c4e748f958f0", null ],
+    [ "solve", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#aa55d06db022e59f7e6ed18e3488fb40b", null ],
+    [ "m_k", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#ac628e1114f36b91899561a39bc979511", null ],
+    [ "m_nu", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#a5f37082a6749dd227cc3c27a5d4c5afd", null ],
+    [ "m_SORtype", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#a0ba7dcf3688abca5fc32797cba89aa76", null ],
+    [ "m_tol", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#a7b95387cb79faa285a33644dc1469d7c", null ],
+    [ "m_w", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#aecd0c903aec985032105cd287668db65", null ],
+    [ "maxIters", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#aaea0e71968be2bd31b713afeb35cad03", null ],
+    [ "printEigInfo", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#af31a7dea6d451055e648bdfc587b9c62", null ],
+    [ "printIters", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#af3ea5288ae200f05c0a2f649fe23f1ab", null ],
+    [ "restart", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#a0310ff01f1b476b8ddcae6d13924f796", null ],
+    [ "SOR_pre", "struct_block_sp_1_1_s_o_r__p_g_m_r_e_s.html#ae15e13b640a878c0771d100f655c9cbc", null ]
+];

@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['type_0',['type',['../struct_block_sp_1_1_scalar_type.html#aff1164ccb2ceb3ffda9bae5e36f6a8a1',1,'BlockSp::ScalarType::type'],['../struct_block_sp_1_1_scalar_type_3_01std_1_1complex_3_01_u_01_4_01_4.html#a85bbc6f656825371952b6b2b41794e58',1,'BlockSp::ScalarType&lt; std::complex&lt; U &gt; &gt;::type'],['../struct_block_sp_1_1_complex_type.html#ac94b2079e549375cf79ce01df3eb2744',1,'BlockSp::ComplexType::type'],['../struct_block_sp_1_1_complex_type_3_01std_1_1complex_3_01_u_01_4_01_4.html#a71f8d5279365e534594e993144732696',1,'BlockSp::ComplexType&lt; std::complex&lt; U &gt; &gt;::type'],['../struct_block_sp_1_1lapack_1_1_scalar_type.html#a0a8d1d477b6b8c1f45314ad5ab316127',1,'BlockSp::lapack::ScalarType::type'],['../struct_block_sp_1_1lapack_1_1_scalar_type_3_01std_1_1complex_3_01_u_01_4_01_4.html#a2415b093d1773b3d0cc014e20739a40b',1,'BlockSp::lapack::ScalarType&lt; std::complex&lt; U &gt; &gt;::type']]]
+];
