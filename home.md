@@ -1,6 +1,6 @@
 ---
 title: Home
 redirect_to: ""
-nav_order: 1
+nav_order: 2
 ---
 

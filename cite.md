@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cite
-nav_order: 20
+nav_order: 5
 ---
 
 If you would like to cite BlockSp, please use the following:
