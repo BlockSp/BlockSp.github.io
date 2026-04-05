@@ -2,7 +2,6 @@
 title: Documentation
 redirect_to: "/api/html/index.html"
 nav-order: 6
-parent: ""
 ---
 
 # Doxygen

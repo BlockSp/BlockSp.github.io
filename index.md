@@ -4,7 +4,7 @@ layout: page
 nav-order: 1
 ---
 
-# BlockSp: A templated C++ library for block sparse linear algebra
+
 
 Welcome to BlockSp!
 A templated C++ library for block sparse linear algebra. Version 1.0.

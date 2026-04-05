@@ -2,7 +2,6 @@
 layout: page
 title: Installation
 nav_order: 3
-parent: ""
 ---
 
 You can download BlockSp via

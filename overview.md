@@ -2,7 +2,6 @@
 layout: page
 title: Overview
 nav_order: 4
-parent: ""
 ---
 # Overview 
 A typical BlockSp code structure to solve $Ax = b$ is
