@@ -1,6 +1,6 @@
 ---
 title: Documentation
-redirect_to: 'https://blocksp.github.io/api/html/index.html'
+redirect_to: https://blocksp.github.io/api/html/index.html
 nav-order: 6
 ---
 
