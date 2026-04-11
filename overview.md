@@ -29,14 +29,17 @@ The file also includes the dot product, infinity norm, and two norm of solArrays
 ```
 The containers use the following template parameters, specified at compile time: 
     Data type T  --  float, double, std::complex<float>, and std::complex<double>. 
-    int       B  --  block size of the solArray.	
-	int       D  --  dimension of the solArray. D = 1 is the default. 
+    int       B  --  Block size of the solArray.	
+    int       D  --  Dimension of the solArray. D = 1 is the default. 
+
 Note: the block size of a BlockSp matrix it typically B or B*D.		
 Setting B = D = 1 reduces the problem to regular sparse linear algebra. 
-Testing indicates that the code often runs fastest when B = 2 and D = 1, use when applicable.		     
+BlockSp is designed for block sparse systems and runs sub-optimally for regular sparse problems.
+Testing indicates setting B = 2 and D = 1 will provide a significant speedup.
 ```
 
 <pre>
+
 blocksp_multiply.hpp
     bsmm        --  Block sparse matrix-matrix multiplication. 
     bsmv        --  Block sparse matrix-vector multiplication. 
@@ -44,16 +47,16 @@ blocksp_multiply.hpp
 
 blocksp_solvers.hpp 
     BlockSp provides the following iterative linear system solvers.
-    pCG           --  Preconditioned block conjugate gradient.
-    pGMRES        --  Preconditioned block GMRES, with deflated restarting (see blocksp_deflated_restart.hpp).
+    pCG         --  Preconditioned block conjugate gradient.
+    pGMRES      --  Preconditioned block GMRES, with deflated restarting (see blocksp_deflated_restart.hpp).
     arnoldi_eigenvalues  --  Arnoldi eigenvalue solver.
  
 blocksp_preconditioners
     The following functions precondition the block linear system for the iterative solvers: 
-    Diag          --  Block diagonal preconditioner.
-    SOR           --  Successive over-relaxation.
-    ILU0          --  Incomplete LU factorization with zero fill.	
-    IChol0        --  Incomplete Cholesky factorization with zero fill.
+    Diag        --  Block diagonal preconditioner.
+    SOR         --  Successive over-relaxation.
+    ILU0        --  Incomplete LU factorization with zero fill.	
+    IChol0      --  Incomplete Cholesky factorization with zero fill.
  
 Additional files in the library include:
     blocksp_dense_multiply.hpp  --  Dense matrix-matrix and matrix-vector multiplication.
