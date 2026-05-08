@@ -16,8 +16,8 @@ Then include it in your code via #include "blocksp_include.hpp".
 
 Additional dependencies:
 To run BlockSp, you must first include and link the following libraries:  <br>
-<a href="https:www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl-download.html">MKL</a> – Intel’s Math Kernel Library, used for the dense/block linear algebra. <br>
-<a href="https:github.com/blitzpp/blitz">blitz++</a> – A high-performance matrix, vector, and multi-dimensional array library. 
+<a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl-download.html">MKL</a> – Intel’s Math Kernel Library, used for the dense/block linear algebra. <br>
+<a href="https://github.com/blitzpp/blitz">blitz++</a> – A high-performance matrix, vector, and multi-dimensional array library. 
 
 
 A CMakeLists.txt file is provided. Additionally, instructions for setting up BlockSp within the 

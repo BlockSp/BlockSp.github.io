@@ -15,4 +15,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-redirect-from
 
+ga_tracking: G-M82XMFZM95  
+
 

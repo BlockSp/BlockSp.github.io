@@ -106,8 +106,8 @@ You can find a brief overview of BlockSp <a href="https://blocksp.github.io/over
  
 Additional dependencies:
 To run BlockSp, you must first include and link the following libraries: <br>
-<a href="https:www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl-download.html">MKL</a> – Intel’s Math Kernel Library, used for the dense/block linear algebra. <br>
-<a href="https:github.com/blitzpp/blitz">blitz++</a> – A high-performance matrix, vector, and multi-dimensional array library. 
+<a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl-download.html">MKL</a> – Intel’s Math Kernel Library, used for the dense/block linear algebra. <br>
+<a href="https://github.com/blitzpp/blitz">blitz++</a> – A high-performance matrix, vector, and multi-dimensional array library. 
  
 
  BlockSp Copyright © 2026, Luke P. Corcos Ph.D. (lpcorcos@gmail.com)
