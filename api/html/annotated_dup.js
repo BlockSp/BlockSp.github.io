@@ -2,7 +2,8 @@ var annotated_dup =
 [
     [ "BlockSp", "namespace_block_sp.html", [
       [ "Sp", "namespace_block_sp_1_1_sp.html", [
-        [ "CSR", "class_block_sp_1_1_sp_1_1_c_s_r.html", "class_block_sp_1_1_sp_1_1_c_s_r" ]
+        [ "CSR", "class_block_sp_1_1_sp_1_1_c_s_r.html", "class_block_sp_1_1_sp_1_1_c_s_r" ],
+        [ "Entry", "class_block_sp_1_1_sp_1_1_entry.html", "class_block_sp_1_1_sp_1_1_entry" ]
       ] ],
       [ "dense", "namespace_block_sp_1_1dense.html", [
         [ "LUFactor", "struct_block_sp_1_1dense_1_1_l_u_factor.html", "struct_block_sp_1_1dense_1_1_l_u_factor" ],

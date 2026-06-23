@@ -97,7 +97,7 @@ $(function(){initNavTree('index.html','',''); });
 <div class="textblock"><p><a class="anchor" id="md__block_sp_2_r_e_a_d_m_e"></a></p>
 <h1 class="doxsection"><a class="anchor" id="a-templated-c-library-for-block-sparse-linear-algebra"></a>
 A templated C++ library for block sparse linear algebra</h1>
-<p>Welcome to BlockSp! A templated C++ library for block sparse linear algebra. Version 1.0</p>
+<p>Welcome to BlockSp! A templated C++ library for block sparse linear algebra. Version 1.1</p>
 <p>You can download <a class="el" href="namespace_block_sp.html" title="blocksp_containers.hpp defines the fundamental containers of BlockSp, a templated C++ library for blo...">BlockSp</a> via</p>
 <p>git clone <a href="https://github.com/BlockSp/BlockSp.git">https://github.com/BlockSp/BlockSp.git</a></p>
 <p>or visit <a href="https://BlockSp.github.io">https://BlockSp.github.io</a></p>
@@ -124,12 +124,12 @@ A templated C++ library for block sparse linear algebra</h1>
  solArray &ndash; A multi-dimensioned block vector. <br  />
  the file also includes the dot product, infinity norm, and two norm of solArrays. <br  />
 </p>
-<div class="fragment"><div class="line">The containers use the following template parameters, specified at compile time: &lt;br/&gt;</div>
-<div class="line">  Data type T  --  float, double, std::complex&lt;float&gt;, and std::complex&lt;double&gt;. &lt;br/&gt;</div>
-<div class="line">  int       B  --  block size of the solArray. &lt;br/&gt;</div>
-<div class="line">  int       D  --  dimension of the solArray. D = 1 is the default. &lt;br/&gt;</div>
-<div class="line">  Note: the block size of a BlockSp matrix it typically B or B*D.   &lt;br/&gt;</div>
-<div class="line">  Setting B = D = 1 reduces the problem to regular sparse linear algebra. &lt;br/&gt;</div>
+<div class="fragment"><div class="line">The containers use the following template parameters, specified at compile time:</div>
+<div class="line">  Data type T  --  float, double, std::complex&lt;float&gt;, and std::complex&lt;double&gt;.</div>
+<div class="line">  int       B  --  block size of the solArray.</div>
+<div class="line">  int       D  --  dimension of the solArray. D = 1 is the default. </div>
+<div class="line">  Note: the block size of a BlockSp matrix it typically B or B*D.   </div>
+<div class="line">  Setting B = D = 1 reduces the problem to regular sparse linear algebra.</div>
 <div class="line">  Testing indicates that the code often runs fastest when B = 2 and D = 1, use when applicable.   </div>
 </div><!-- fragment --><p><a class="el" href="blocksp__multiply_8hpp.html">blocksp_multiply.hpp</a> <br  />
  bsmm &ndash; Block sparse matrix-matrix multiplication. <br  />

@@ -7,13 +7,13 @@ nav-order: 1
 <h1> BlockSp: A templated C++ library for block sparse linear algebra.</h1>
 
 Welcome to BlockSp!
-A templated C++ library for block sparse linear algebra. Version 1.0.
+A templated C++ library for block sparse linear algebra. Version 1.1.
 
 You can download BlockSp via
     
     git clone https://github.com/BlockSp/BlockSp.git
     
-or download the <a href="BlockSp-v1.0.zip">.zip</a>. Visit BlockSp on <a href="https://github.com/BlockSp/BlockSp">GitHub</a>.
+or download the <a href="BlockSp-v1.1.zip">.zip</a>. Visit BlockSp on <a href="https://github.com/BlockSp/BlockSp">GitHub</a>.
 
 This software package is designed to address linear algebra problems
   where the majority of elements within the linear system are zero (sparse)

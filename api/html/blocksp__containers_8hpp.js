@@ -6,6 +6,7 @@ var blocksp__containers_8hpp =
     [ "BlockSp::ScalarType&lt; std::complex&lt; U &gt; &gt;", "struct_block_sp_1_1_scalar_type_3_01std_1_1complex_3_01_u_01_4_01_4.html", "struct_block_sp_1_1_scalar_type_3_01std_1_1complex_3_01_u_01_4_01_4" ],
     [ "BlockSp::ComplexType&lt; T &gt;", "struct_block_sp_1_1_complex_type.html", "struct_block_sp_1_1_complex_type" ],
     [ "BlockSp::ComplexType&lt; std::complex&lt; U &gt; &gt;", "struct_block_sp_1_1_complex_type_3_01std_1_1complex_3_01_u_01_4_01_4.html", "struct_block_sp_1_1_complex_type_3_01std_1_1complex_3_01_u_01_4_01_4" ],
+    [ "BlockSp::Sp::Entry&lt; T &gt;", "class_block_sp_1_1_sp_1_1_entry.html", "class_block_sp_1_1_sp_1_1_entry" ],
     [ "BlockSp::Sp::CSR&lt; T &gt;", "class_block_sp_1_1_sp_1_1_c_s_r.html", "class_block_sp_1_1_sp_1_1_c_s_r" ],
     [ "BlockSp::solArray&lt; T, B, D &gt;", "class_block_sp_1_1sol_array.html", "class_block_sp_1_1sol_array" ],
     [ "BLOCKSP_VERSION_MAJOR", "blocksp__containers_8hpp.html#a48645941eaa3352e56c99d0da728d058", null ],

@@ -8,7 +8,7 @@ You can download BlockSp via
     
     git clone https://github.com/BlockSp/BlockSp.git
     
-or download the <a href="BlockSp-v1.0.zip">.zip</a>. Visit BlockSp on <a href="https://github.com/BlockSp/BlockSp">GitHub</a>.
+or download the <a href="BlockSp-v1.1.zip">.zip</a>. Visit BlockSp on <a href="https://github.com/BlockSp/BlockSp">GitHub</a>.
 
 BlockSp is a header only C++ library with two external library dependencies.
 Place the library folder where your compiler can find it.

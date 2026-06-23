@@ -8,6 +8,7 @@ var hierarchy =
     [ "BlockSp::preConditioners::Diag&lt; Inv, T, B, D &gt;", "struct_block_sp_1_1pre_conditioners_1_1_diag.html", null ],
     [ "eigen_comparison::Eigen_Trip&lt; T &gt;", "structeigen__comparison_1_1_eigen___trip.html", null ],
     [ "BlockSp::dense::Eigenvalues_Arr&lt; T &gt;", "struct_block_sp_1_1dense_1_1_eigenvalues___arr.html", null ],
+    [ "BlockSp::Sp::Entry&lt; T &gt;", "class_block_sp_1_1_sp_1_1_entry.html", null ],
     [ "std::false_type", null, [
       [ "BlockSp::is_complex< std::complex< T > >", "struct_block_sp_1_1is__complex_3_01std_1_1complex_3_01_t_01_4_01_4.html", null ],
       [ "BlockSp::lapack::is_complex< std::complex< T > >", "struct_block_sp_1_1lapack_1_1is__complex_3_01std_1_1complex_3_01_t_01_4_01_4.html", null ],

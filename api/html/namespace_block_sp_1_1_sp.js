@@ -1,6 +1,7 @@
 var namespace_block_sp_1_1_sp =
 [
     [ "CSR", "class_block_sp_1_1_sp_1_1_c_s_r.html", "class_block_sp_1_1_sp_1_1_c_s_r" ],
+    [ "Entry", "class_block_sp_1_1_sp_1_1_entry.html", "class_block_sp_1_1_sp_1_1_entry" ],
     [ "operator*", "namespace_block_sp_1_1_sp.html#a89fa330f63cbd3f885aeeecc673f08d2", null ],
     [ "operator*", "namespace_block_sp_1_1_sp.html#a5675d40f52dde56c7c094ba144f50684", null ],
     [ "operator*", "namespace_block_sp_1_1_sp.html#a82b2ab5262d055bfe386467cdb3e740e", null ],
